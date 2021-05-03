@@ -1,3 +1,5 @@
 *.dat
 .ipynb_checkpoints
 /geog_288cj/post_processing/input_data/
+/geog_288cj/post_processing/outputs/data/
+/geog_288cj/plotting/input_data/
