@@ -1,6 +1,6 @@
 # Geog 288CJ Plotting Subdirectory
 
-This repository contains the following codes written by Merissa Coello, created in GEOG 288CJ to perform analysis and plotting required for the Merissa's independent class project.
+This repository contains the following codes written by Merissa Coello, created in the graduate class GEOG 288CJ - Weather Research and Forecast (WRF) Modeling, for her independent class project. In this class Merissa ran a numerical weather simulation using WRF for a case study of 4 days. Merissa's class project consisted of running validations and conducting comparisons to examine the accuracy of the simulations in contrast to various types of observational data.
 
 | code     | analysis  |  
 |---|---|
